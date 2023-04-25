@@ -1,8 +1,13 @@
 
 # Peliculas App
 
-This project is created using React Native CLI.
-The project uses TheMovieDb api.
+🚀 This project is created using React Native CLI.
+
+
+
+⚡ The project uses TheMovieDb api.
+
+
 
 
 
